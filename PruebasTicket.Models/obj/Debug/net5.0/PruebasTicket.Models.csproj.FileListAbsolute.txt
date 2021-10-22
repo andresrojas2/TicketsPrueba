@@ -1,0 +1,15 @@
+G:\Proyecto\PruebasTecnicas\PruebasTicket\PruebasTicket\PruebasTicket.Models\bin\Debug\net5.0\PruebasTicket.Models.deps.json
+G:\Proyecto\PruebasTecnicas\PruebasTicket\PruebasTicket\PruebasTicket.Models\bin\Debug\net5.0\PruebasTicket.Models.runtimeconfig.json
+G:\Proyecto\PruebasTecnicas\PruebasTicket\PruebasTicket\PruebasTicket.Models\bin\Debug\net5.0\PruebasTicket.Models.runtimeconfig.dev.json
+G:\Proyecto\PruebasTecnicas\PruebasTicket\PruebasTicket\PruebasTicket.Models\bin\Debug\net5.0\PruebasTicket.Models.dll
+G:\Proyecto\PruebasTecnicas\PruebasTicket\PruebasTicket\PruebasTicket.Models\bin\Debug\net5.0\ref\PruebasTicket.Models.dll
+G:\Proyecto\PruebasTecnicas\PruebasTicket\PruebasTicket\PruebasTicket.Models\bin\Debug\net5.0\PruebasTicket.Models.pdb
+G:\Proyecto\PruebasTecnicas\PruebasTicket\PruebasTicket\PruebasTicket.Models\obj\Debug\net5.0\PruebasTicket.Models.csprojAssemblyReference.cache
+G:\Proyecto\PruebasTecnicas\PruebasTicket\PruebasTicket\PruebasTicket.Models\obj\Debug\net5.0\PruebasTicket.Models.GeneratedMSBuildEditorConfig.editorconfig
+G:\Proyecto\PruebasTecnicas\PruebasTicket\PruebasTicket\PruebasTicket.Models\obj\Debug\net5.0\PruebasTicket.Models.AssemblyInfoInputs.cache
+G:\Proyecto\PruebasTecnicas\PruebasTicket\PruebasTicket\PruebasTicket.Models\obj\Debug\net5.0\PruebasTicket.Models.AssemblyInfo.cs
+G:\Proyecto\PruebasTecnicas\PruebasTicket\PruebasTicket\PruebasTicket.Models\obj\Debug\net5.0\PruebasTicket.Models.csproj.CoreCompileInputs.cache
+G:\Proyecto\PruebasTecnicas\PruebasTicket\PruebasTicket\PruebasTicket.Models\obj\Debug\net5.0\PruebasTicket.Models.dll
+G:\Proyecto\PruebasTecnicas\PruebasTicket\PruebasTicket\PruebasTicket.Models\obj\Debug\net5.0\ref\PruebasTicket.Models.dll
+G:\Proyecto\PruebasTecnicas\PruebasTicket\PruebasTicket\PruebasTicket.Models\obj\Debug\net5.0\PruebasTicket.Models.pdb
+G:\Proyecto\PruebasTecnicas\PruebasTicket\PruebasTicket\PruebasTicket.Models\obj\Debug\net5.0\PruebasTicket.Models.genruntimeconfig.cache
