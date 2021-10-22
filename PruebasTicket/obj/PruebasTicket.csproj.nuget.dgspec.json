@@ -4,6 +4,118 @@
     "G:\\Proyecto\\PruebasTecnicas\\PruebasTicket\\PruebasTicket\\PruebasTicket\\PruebasTicket.csproj": {}
   },
   "projects": {
+    "G:\\Proyecto\\PruebasTecnicas\\PruebasTicket\\PruebasTicket\\PruebasTicket.Dtos\\PruebasTicket.Dtos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Proyecto\\PruebasTecnicas\\PruebasTicket\\PruebasTicket\\PruebasTicket.Dtos\\PruebasTicket.Dtos.csproj",
+        "projectName": "PruebasTicket.Dtos",
+        "projectPath": "G:\\Proyecto\\PruebasTecnicas\\PruebasTicket\\PruebasTicket\\PruebasTicket.Dtos\\PruebasTicket.Dtos.csproj",
+        "packagesPath": "C:\\Users\\Andres\\.nuget\\packages\\",
+        "outputPath": "G:\\Proyecto\\PruebasTecnicas\\PruebasTicket\\PruebasTicket\\PruebasTicket.Dtos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Andres\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\Proyecto\\PruebasTecnicas\\PruebasTicket\\PruebasTicket\\PruebasTicket.Logica\\PruebasTicket.Logica.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Proyecto\\PruebasTecnicas\\PruebasTicket\\PruebasTicket\\PruebasTicket.Logica\\PruebasTicket.Logica.csproj",
+        "projectName": "PruebasTicket.Logica",
+        "projectPath": "G:\\Proyecto\\PruebasTecnicas\\PruebasTicket\\PruebasTicket\\PruebasTicket.Logica\\PruebasTicket.Logica.csproj",
+        "packagesPath": "C:\\Users\\Andres\\.nuget\\packages\\",
+        "outputPath": "G:\\Proyecto\\PruebasTecnicas\\PruebasTicket\\PruebasTicket\\PruebasTicket.Logica\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Andres\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "G:\\Proyecto\\PruebasTecnicas\\PruebasTicket\\PruebasTicket\\PruebasTicket.Models\\PruebasTicket.Models.csproj": {
+                "projectPath": "G:\\Proyecto\\PruebasTecnicas\\PruebasTicket\\PruebasTicket\\PruebasTicket.Models\\PruebasTicket.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "G:\\Proyecto\\PruebasTecnicas\\PruebasTicket\\PruebasTicket\\PruebasTicket.Models\\PruebasTicket.Models.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -100,6 +212,12 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
+              "G:\\Proyecto\\PruebasTecnicas\\PruebasTicket\\PruebasTicket\\PruebasTicket.Dtos\\PruebasTicket.Dtos.csproj": {
+                "projectPath": "G:\\Proyecto\\PruebasTecnicas\\PruebasTicket\\PruebasTicket\\PruebasTicket.Dtos\\PruebasTicket.Dtos.csproj"
+              },
+              "G:\\Proyecto\\PruebasTecnicas\\PruebasTicket\\PruebasTicket\\PruebasTicket.Logica\\PruebasTicket.Logica.csproj": {
+                "projectPath": "G:\\Proyecto\\PruebasTecnicas\\PruebasTicket\\PruebasTicket\\PruebasTicket.Logica\\PruebasTicket.Logica.csproj"
+              },
               "G:\\Proyecto\\PruebasTecnicas\\PruebasTicket\\PruebasTicket\\PruebasTicket.Models\\PruebasTicket.Models.csproj": {
                 "projectPath": "G:\\Proyecto\\PruebasTecnicas\\PruebasTicket\\PruebasTicket\\PruebasTicket.Models\\PruebasTicket.Models.csproj"
               }

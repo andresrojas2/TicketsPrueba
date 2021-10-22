@@ -23,6 +23,8 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\PruebasTicket.Dtos\PruebasTicket.Dtos.csproj" />
+    <ProjectReference Include="..\PruebasTicket.Logica\PruebasTicket.Logica.csproj" />
     <ProjectReference Include="..\PruebasTicket.Models\PruebasTicket.Models.csproj" />
   </ItemGroup>
 

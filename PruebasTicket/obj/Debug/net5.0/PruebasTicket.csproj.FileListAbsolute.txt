@@ -63,3 +63,7 @@ G:\Proyecto\PruebasTecnicas\PruebasTicket\PruebasTicket\PruebasTicket\obj\Debug\
 G:\Proyecto\PruebasTecnicas\PruebasTicket\PruebasTicket\PruebasTicket\obj\Debug\net5.0\PruebasTicket.genruntimeconfig.cache
 G:\Proyecto\PruebasTecnicas\PruebasTicket\PruebasTicket\PruebasTicket\bin\Debug\net5.0\PruebasTicket.Models.dll
 G:\Proyecto\PruebasTecnicas\PruebasTicket\PruebasTicket\PruebasTicket\bin\Debug\net5.0\PruebasTicket.Models.pdb
+G:\Proyecto\PruebasTecnicas\PruebasTicket\PruebasTicket\PruebasTicket\bin\Debug\net5.0\PruebasTicket.Dtos.dll
+G:\Proyecto\PruebasTecnicas\PruebasTicket\PruebasTicket\PruebasTicket\bin\Debug\net5.0\PruebasTicket.Logica.dll
+G:\Proyecto\PruebasTecnicas\PruebasTicket\PruebasTicket\PruebasTicket\bin\Debug\net5.0\PruebasTicket.Dtos.pdb
+G:\Proyecto\PruebasTecnicas\PruebasTicket\PruebasTicket\PruebasTicket\bin\Debug\net5.0\PruebasTicket.Logica.pdb

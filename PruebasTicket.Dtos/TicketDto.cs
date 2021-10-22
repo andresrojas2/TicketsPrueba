@@ -1,18 +1,28 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using System.Text;
 
-#nullable disable
-
-namespace PruebasTicket.Models.Models
+namespace PruebasTicket.Dtos
 {
-    public partial class Ticket
+    public class TicketDto
     {
+     
+
         public int Id { get; set; }
+
+        [Required]
+        [Display(Name = "Usuario")]
         public string Usuario { get; set; }
+
+        [Display(Name = "Fecha creación")]
         public DateTime? FechaCreacion { get; set; }
         public DateTime? FechaActualizacion { get; set; }
         public int? EstatusTicketId { get; set; }
 
-        public virtual EstatusTicket EstatusTicket { get; set; }
+
+        public string EstatusTicket { get; set; }
+
+
     }
 }

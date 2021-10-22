@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebasTicket.Models", "Pru
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebasTicket.Logica", "PruebasTicket.Logica\PruebasTicket.Logica.csproj", "{50377A54-F019-4175-A87F-B8F675A99E97}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebasTicket.Dtos", "PruebasTicket.Dtos\PruebasTicket.Dtos.csproj", "{69519BE8-EF1E-4C33-8284-C5A9610EEE46}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{50377A54-F019-4175-A87F-B8F675A99E97}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{50377A54-F019-4175-A87F-B8F675A99E97}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{50377A54-F019-4175-A87F-B8F675A99E97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69519BE8-EF1E-4C33-8284-C5A9610EEE46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69519BE8-EF1E-4C33-8284-C5A9610EEE46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69519BE8-EF1E-4C33-8284-C5A9610EEE46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69519BE8-EF1E-4C33-8284-C5A9610EEE46}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

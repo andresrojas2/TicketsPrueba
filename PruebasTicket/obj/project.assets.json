@@ -1614,6 +1614,29 @@
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
       },
+      "PruebasTicket.Dtos/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/PruebasTicket.Dtos.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PruebasTicket.Dtos.dll": {}
+        }
+      },
+      "PruebasTicket.Logica/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "PruebasTicket.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PruebasTicket.Logica.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PruebasTicket.Logica.dll": {}
+        }
+      },
       "PruebasTicket.Models/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
@@ -6049,6 +6072,16 @@
         "system.xml.xmlserializer.nuspec"
       ]
     },
+    "PruebasTicket.Dtos/1.0.0": {
+      "type": "project",
+      "path": "../PruebasTicket.Dtos/PruebasTicket.Dtos.csproj",
+      "msbuildProject": "../PruebasTicket.Dtos/PruebasTicket.Dtos.csproj"
+    },
+    "PruebasTicket.Logica/1.0.0": {
+      "type": "project",
+      "path": "../PruebasTicket.Logica/PruebasTicket.Logica.csproj",
+      "msbuildProject": "../PruebasTicket.Logica/PruebasTicket.Logica.csproj"
+    },
     "PruebasTicket.Models/1.0.0": {
       "type": "project",
       "path": "../PruebasTicket.Models/PruebasTicket.Models.csproj",
@@ -6061,6 +6094,8 @@
       "Microsoft.EntityFrameworkCore.Design >= 5.0.11",
       "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.11",
       "Microsoft.EntityFrameworkCore.Tools >= 5.0.11",
+      "PruebasTicket.Dtos >= 1.0.0",
+      "PruebasTicket.Logica >= 1.0.0",
       "PruebasTicket.Models >= 1.0.0",
       "Swashbuckle.AspNetCore >= 5.6.3"
     ]
@@ -6092,6 +6127,12 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
+            "G:\\Proyecto\\PruebasTecnicas\\PruebasTicket\\PruebasTicket\\PruebasTicket.Dtos\\PruebasTicket.Dtos.csproj": {
+              "projectPath": "G:\\Proyecto\\PruebasTecnicas\\PruebasTicket\\PruebasTicket\\PruebasTicket.Dtos\\PruebasTicket.Dtos.csproj"
+            },
+            "G:\\Proyecto\\PruebasTecnicas\\PruebasTicket\\PruebasTicket\\PruebasTicket.Logica\\PruebasTicket.Logica.csproj": {
+              "projectPath": "G:\\Proyecto\\PruebasTecnicas\\PruebasTicket\\PruebasTicket\\PruebasTicket.Logica\\PruebasTicket.Logica.csproj"
+            },
             "G:\\Proyecto\\PruebasTecnicas\\PruebasTicket\\PruebasTicket\\PruebasTicket.Models\\PruebasTicket.Models.csproj": {
               "projectPath": "G:\\Proyecto\\PruebasTecnicas\\PruebasTicket\\PruebasTicket\\PruebasTicket.Models\\PruebasTicket.Models.csproj"
             }
